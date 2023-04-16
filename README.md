@@ -57,3 +57,5 @@
   
 --> when you run main, you must get issue as 'scalac: bad option: '-make: transitive' --> got .idea directory -->in scala_compiler.xml file, remove -'make: transitive' properties, all error must be gone
 
+ ![](images/Remove-make-transitive-idea-scala-compiler-xml.png)
+
