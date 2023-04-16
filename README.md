@@ -20,7 +20,7 @@
 
   -->Install plugin Scala (preference-->plugin -->search scala --> install) -->project setting-->global sdk -->add (+) scala -->
   
-  ![](images/proect-setting-globallib-add-sdk.png)
+  ![](images/proect-setting-globallib-add-sdk.png) --> delete test folder
   
   -->In pom.xml except your project group_id and artifact, replace all content with following pom.xml section  
   
@@ -57,5 +57,5 @@
   
 --> when you run main, you must get issue as 'scalac: bad option: '-make: transitive' --> got .idea directory -->in scala_compiler.xml file, remove -'make: transitive' properties, all error must be gone
 
- ![](images/Remove-make-transitive-idea-scala-compiler-xml.png)
+ ![](image/Remove-make-transitive-idea-scala-compiler-xml.png)
 
