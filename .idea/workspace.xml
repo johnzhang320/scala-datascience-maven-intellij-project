@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad90e29b-aa29-45d3-b52e-6c22d83f7c7b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/images/create-new-maven-project-page.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/create-new-maven-project-page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/Main$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/DemoOption$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/DemoOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/VectClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/VectorExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/VectorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/demoFilter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/demoFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/demoList$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/demoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/demoMap$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/demoMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/listMapFlatMap$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/listMapFlatMap$Person$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/listMapFlatMap$Person$2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/out/production/scala-list-map-flatmap-filter-option-caseclass-exmples/collections/example/learning/listMapFlatMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$37999cf6fffa5c195b2b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$37999cf6fffa5c195b2b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$37999cf6fffa5c195b2b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$679b386368d5949a057b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$679b386368d5949a057b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$679b386368d5949a057b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$7cb84ff79e971f01c811$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$7cb84ff79e971f01c811.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$7cb84ff79e971f01c811.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$eb01ec4273aadd013754$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$eb01ec4273aadd013754.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/config-classes/$eb01ec4273aadd013754.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/scala-2.12/sbt-1.0/sync/copy-resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/scala-list-map-flatmap-filter-option-caseclass-exmples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/collections/example/learning/DemoOption.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/collections/example/learning/VectClass.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/collections/example/learning/VectorExample.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/collections/example/learning/demoFilter.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/collections/example/learning/demoList.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/collections/example/learning/demoMap.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/collections/example/learning/listMapFlatMap.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/src/main/scala/Main.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/.history3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/_global/updateSbtClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scala-list-map-flatmap-filter-option-caseclass-exmples/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/GradientDescent$MultipleArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/GradientDescent$Params.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/GradientDescent$SimpleArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/GradientDescent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/GradientDescentExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/GradientDescentExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/KmeanExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/KmeanExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/KnearestNeighbors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/LinearAlgebra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/LinearAlgebraExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/LinearAlgebraExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/LogisticsRegression$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/LogisticsRegression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/Mach‌ineLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/MultipleRegression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/MultipleRegressionExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/MultipleRegressionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/SimpleLinearRegression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/SimpleLinearRegressionExmaple$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/SimpleLinearRegressionExmaple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/TestFunc$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/TestFunc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/WorkWithData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/statistics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/statisticsExample$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/scala/data/science/code/statisticsExample.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2OWChlrL5KVzaEZms2I5OOpvSoK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/jianzhang/ScalaSparkKafka/github/scala-datascience-maven-intellij-project",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/org/scala/data/science/code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LinearAlgebraExample">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="scala-datascience-maven-intellij-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradientDescentExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.scala.data.science.code.GradientDescentExample" />
+      <module name="scala-datascience-maven-intellij-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scala.data.science.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearAlgebraExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.scala.data.science.code.LinearAlgebraExample" />
+      <module name="scala-datascience-maven-intellij-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.scala.data.science.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinearAlgebraExample" />
+        <item itemvalue="Application.GradientDescentExample" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad90e29b-aa29-45d3-b52e-6c22d83f7c7b" name="Changes" comment="" />
+      <created>1681667072948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681667072948</updated>
+    </task>
+    <servers />
+  </component>
+</project>
