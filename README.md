@@ -15,4 +15,9 @@
   
   -->Input your project name: 'scala-datascience-maven-intellij-project'
   
-  ![](images/
+  ![](images/create-new-maven-project-page.png)
+
+
+  -->Install plugin Scala (preference-->plugin -->search scala --> install) -->project setting-->global sdk -->add (+) scala -->
+  
+  ![](images/proect-setting-globallib-add-sdk.png)
