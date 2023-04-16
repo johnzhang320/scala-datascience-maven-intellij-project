@@ -55,7 +55,7 @@
  
   ![](images/project-directory-add-framework-support-.png)
   
---> when you run main, you must get issue as 'scalac: bad option: '-make: transitive' --> got .idea directory -->in scala_compiler.xml file, remove -'make: transitive' properties, all error must be gone
+--> when you run main, you must get issue as 'scalac: bad option: '-make: transitive' --> got .idea directory -->in scala_compiler.xml file, remove -'make: transitive' properties, all errors must be gone
 
- ![](image/Remove-make-transitive-idea-scala-compiler-xml.png)
+ ![](images/Remove-make-transitive-idea-scala-compiler-xml.png)
 
